@@ -1,8 +1,5 @@
 
 # 文物知识图谱的自动化构建及问答应用
-整体框架图如图所示：
-![img/1371701677788_.pic.jpg]()
-
 
 ## 任务一 爬取数据
 1. 数据源
@@ -14,6 +11,9 @@
  - 历史千年  http://www.lsqn.cn/Index.html （历史名人、历史故事）
  - 中国历代人物传记资料库 http://db1.ihp.sinica.edu.tw/cbdbc/ttsweb?@0:0:1:cbdbkm@@0.47946741292253137 
  - 北京大学中国古代史研究中心 https://zggds.pku.edu.cn/slxx/58709.htm
+
+数据处理流程：
+![img/1371701677788_.pic.jpg](https://github.com/lulumengyi/Automated-Construction-and-Question-Answering-Application-of-a-Knowledge-Graph-for-Culture/blob/master/img/1371701677788_.pic.jpg)
  
  ## 任务二 知识图谱构建
  目前考虑到的实体
