@@ -1,5 +1,8 @@
 
 # 文物知识图谱的自动化构建及问答应用
+整体框架图如图所示：
+![Uploading image.png…]()
+
 
 ## 任务一 爬取数据
 1. 数据源
@@ -94,5 +97,7 @@ neo4j_home$ bin/neo4j-admin import --nodes executive.csv --nodes stock.csv -- no
  ## 任务六 SPARQL知识检索/通过编写Cypher语句回答问题
  
  ## 任务七 可视化平台搭建
+
+ 
  
 
